@@ -1,0 +1,6 @@
+
+
+
+
+
+import getApi from "./ajax";

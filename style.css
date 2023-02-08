@@ -1,0 +1,20 @@
+input[type = text] {
+    outline: none;
+    background-color: rgba(88, 116, 89, 0.308);
+    color: rgb(5, 5, 5);
+    border: none;
+    width: 220px;
+    height: 5vh;
+}
+button{
+    width: 10vh;
+    border: inherit;
+    border-radius: 5px;
+    height: 4vh;
+    background-color: rgb(61, 66, 66);
+    color: #fff;
+}
+.city{
+    display: block;
+    margin-top: 40px;
+}
